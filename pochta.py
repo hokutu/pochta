@@ -34,4 +34,4 @@ async def time(ctx):
 	embed=discord.Embed(title="Время(МСК)", url="https://time100.ru/", description=" ", color=0xe91e63)
 	await ctx.send(embed=embed) 
 
-bot.run('ODEwMjIyODYyNDE3Nzg4OTc5.YCgg1w.Vqe_o8O7mOCunFnpgjcIzg6zitw')
+bot.run('ODEwMjIyODYyNDE3Nzg4OTc5.YCgg1w.-fgxOspoNMbZ9DklnFUY7UOnl6I')
